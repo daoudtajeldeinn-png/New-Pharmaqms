@@ -1,5 +1,5 @@
 title: "New-Pharmaqms"
-description: "Total Pharmaceutical Quality Management System"
+description: "Total Pharmaceutical Quality Management System - نظام إدارة الجودة الشامل للأدوية"
 remote_theme: jekyll/minima
 minima:
   skin: dark
@@ -10,11 +10,13 @@ show_excerpts: false
 
 # GitHub Pages requires these settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# GitHub Pages metadata
+github: [repository]
 
 # Exclude unnecessary files from the build
 exclude:
