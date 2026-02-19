@@ -1,0 +1,39 @@
+title: "New-Pharmaqms"
+description: "Total Pharmaceutical Quality Management System"
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  date_format: "%B %-d, %Y"
+  social_links:
+    github: daoudtajeldeinn-png
+show_excerpts: false
+
+# GitHub Pages requires these settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude unnecessary files from the build
+exclude:
+  - node_modules/
+  - app/
+  - PharmaQMS-Vue/
+  - PQMS-1/
+  - "*.bat"
+  - "*.js"
+  - "*.vbs"
+  - LICENSE
+  - GENERATE_NEW_KEY.bat
+  - MasterKeyGen.js
+  - PharmaLauncher.vbs
+  - PharmaQMS Enterprise-DESKTOP-HDF4QB0.lnk
+  - PharmaQMS Enterprise-SCI.lnk
+  - PharmaQMS Enterprise.lnk
+  - PQMS_Setup_Tool.bat
+  - README.md
+  - START_HERE.md
+  - START_PQMS.bat
+  - START_SILENT.bat
