@@ -22,6 +22,7 @@ github: [repository]
 exclude:
   - node_modules/
   - app/
+  - app/dist/
   - PharmaQMS-Vue/
   - PQMS-1/
   - "*.bat"
