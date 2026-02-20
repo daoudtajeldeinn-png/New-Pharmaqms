@@ -1,0 +1,19 @@
+title: "New-Pharmaqms"
+description: "Total Pharmaceutical Quality Management System - نظام إدارة الجودة الشامل للأدوية"
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  date_format: "%B %-d, %Y"
+  social_links:
+    github: daoudtajeldeinn-png
+show_excerpts: false
+
+# GitHub Pages requires these settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# GitHub Pages metadata
+github: [repository]
